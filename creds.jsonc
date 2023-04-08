@@ -1,0 +1,14 @@
+{
+    // Turboself credentials
+    "TS_ADDR": "TurboSelf Email Address",
+    "TS_PASS": "TurboSelf account Password",
+    
+    // Discord credentials
+    "USERID": "Discord Used Id",
+    "TOKEN": "Discord Bot Token",
+
+    // Bot settings
+    "fov": 7,       // How many days the bot can see
+    "debug": true,  // Output turboself debug logs
+    "frequency": 2  // Refresh rate frequency, in hours
+}
