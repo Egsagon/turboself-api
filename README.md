@@ -7,7 +7,7 @@ Is able to fetch user reservations, remaining credits and account data.
 ## Installation
 
 - Use at least python `3.11`
-- Install using pip: `pip install git+https://github.com/Egsagon/turboself-api.git`
+- Install using pip: `pip install turboself`
 - Or clone this repository and use the module locally.
 
 ## Usage
