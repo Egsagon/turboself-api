@@ -6,15 +6,8 @@ Is able to fetch user reservations, remaining credits and account data.
 
 ## Installation
 
-- Install beautifulSoup (`pip install beautifulsoup`)
-
-- Clone and the repository and run:
-
-```sh
-git clone https://github.com/Egsagon/turboself-api
-cd turboself-api/
-python3 main.py
-```
+- Use at least python `3.11`
+- Install using pip: `pip install git+https://github.com/Egsagon/turboself-api.git`
 
 ## Usage
 
