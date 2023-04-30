@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/turboself/__init__.py
+src/turboself/consts.py
+src/turboself/core.py
+src/turboself.egg-info/PKG-INFO
+src/turboself.egg-info/SOURCES.txt
+src/turboself.egg-info/dependency_links.txt
+src/turboself.egg-info/top_level.txt
