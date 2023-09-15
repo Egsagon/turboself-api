@@ -1,3 +1,5 @@
+⚠️ Discontinuity - I do not own a Turboself account anymore, I won't be able to maintain this anymore. Any update on the Turboself wepapp can break this project. Feel free to fork the repo or submit updates.
+
 # turboself-api
 API for the TurboSelf web application.
 
